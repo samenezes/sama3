@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input {
+  font-size: large;
+  margin-right: 10px;
+}
+
+li {
+  font-size: large;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
